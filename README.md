@@ -1,2 +1,2 @@
 # Tindog-Website
-it' s a website about dating app for fogs,using html ,css and bootstrap
+it' s a website about dating app for dogs,using html ,css and bootstrap
